@@ -1,5 +1,5 @@
-## Name: O.sirisha Reddy
-## Reg.No:212222230103
+ Name: O.sirisha Reddy
+ Reg.No:212222230103
 
 # Experiment-02 Implementation of combinational logic
 ## AIM:
@@ -36,8 +36,8 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 ```
-Developed by:Thenmohi P 
-RegisterNumber:  212221230116
+Developed by:O.Sirisha Reddy
+RegisterNumber:  212222230103
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
