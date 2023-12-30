@@ -36,8 +36,8 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 ```
-Developed by:O.Sirisha Reddy
-RegisterNumber:  212222230103
+Developed by: POOJA S
+RegisterNumber:  212223040146
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
