@@ -37,9 +37,8 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 
 Developed by: POOJA S
 
-RegisterNumber:  21
+RegisterNumber:  212223040146
 ## Program:
-```2223040146
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
