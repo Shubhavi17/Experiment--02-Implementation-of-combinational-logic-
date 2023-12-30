@@ -54,7 +54,7 @@ endmodule
 ```
 ## RTL:
 
-![Screenshot 2023-12-27 030447](https://github.com/poojasen05/Experiment--02-Implementation-of-combinational-logic-/assets/150784373/908d7a2d-4a60-4f91-97ab-a8829f46de86)
+![d1](https://github.com/Thenmozhi-Palanisamy/Experiment--02-Implementation-of-combinational-logic-/assets/95198708/5ab2c60f-4580-4390-8c83-3c47e830b49c)
 
 
 ## Truth table
