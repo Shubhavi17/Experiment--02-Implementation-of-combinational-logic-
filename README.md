@@ -39,6 +39,7 @@ Developed by: POOJA S
 
 RegisterNumber:  212223040146
 ## Program:
+```
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
