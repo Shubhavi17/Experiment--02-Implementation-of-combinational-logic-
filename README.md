@@ -34,10 +34,12 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 5.Create university program(VWF) for getting timing diagram.
 
 6.Give the respective inputs for timing diagram and obtain the results.
-## Program:
-```
+
 Developed by: POOJA S
-RegisterNumber:  212223040146
+
+RegisterNumber:  21
+## Program:
+```2223040146
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
