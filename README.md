@@ -1,5 +1,4 @@
- Name: O.sirisha Reddy
- Reg.No:212222230103
+
 
 # Experiment-02 Implementation of combinational logic
 ## AIM:
